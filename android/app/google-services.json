@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1080905198361",
+    "project_id": "flutter-clock-19dd9",
+    "storage_bucket": "flutter-clock-19dd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080905198361:android:8680f76974cefda22ff388",
+        "android_client_info": {
+          "package_name": "com.example.flutter_clock_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080905198361-vfvctk27ni06ievfkctj6e7b1tvgi9b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_clock_quiz",
+            "certificate_hash": "b6bfd8ad5aac1ced31f5f429adc7c097d92365b1"
+          }
+        },
+        {
+          "client_id": "1080905198361-nk4r34sljuepek7u3oc1t74dqeftmf0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtSeknkqDnB0r9kGk-IP2Dgb_HgiR5NVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080905198361-nk4r34sljuepek7u3oc1t74dqeftmf0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

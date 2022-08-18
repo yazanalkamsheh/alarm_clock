@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1080905198361-q1sbna8d642atp2f1oan46ngst9n633t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1080905198361-q1sbna8d642atp2f1oan46ngst9n633t</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1080905198361-vfvctk27ni06ievfkctj6e7b1tvgi9b3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAha0fGeJj6xDDYkMkqfDop_ghiQa3IAww</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1080905198361</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterClockQuiz</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-clock-19dd9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-clock-19dd9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1080905198361:ios:aead80cc344c76fd2ff388</string>
+</dict>
+</plist>
